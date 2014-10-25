@@ -1,0 +1,16 @@
+{
+  "name": "puppet-logclient",
+  "version": "0.1.0",
+  "author": "Paul Gomersbach",
+  "summary": "Logstash client puppet module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/pgomersbach/puppet-logclient.git",
+  "project_page": "https://github.com/pgomersbach/puppet-logclient",
+  "issues_url": "https://github.com/pgomersbach/puppet-logclient/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
