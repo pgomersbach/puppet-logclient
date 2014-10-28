@@ -1,9 +1,9 @@
 HOSTS:
-  ubuntu-server-1404-x64:
+  suse-enterprise-11:
     roles:
       - master
-    vmname: ubuntu-rely
-    platform: ubuntu-server-14.04-amd64
+    vmname: sles11
+    platform: sles-server-11-amd64
     amisize: t1.micro
     hypervisor: ec2
     snapshot: foss
